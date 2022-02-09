@@ -1,6 +1,7 @@
 #!/bin/sh
 
 sudo apt-get update
+sudo apt-get upgrade
 sudo apt-get install vim tmux network-manager git tig openvpn gcc g++ htop silversearcher-ag mosh pwgen curl -y
 
 git config --global user.name "Agnar22"
