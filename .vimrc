@@ -1,4 +1,10 @@
-set relativenumber
-syntax on
-set autoindent
-set nowrap
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
+:set autoindent
+:set nowrap
+:syntax on
+
+" turn hybrid line numers on "
+:set number relativenumber
+:set nu rnu
