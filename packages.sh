@@ -26,6 +26,9 @@ sudo snap install discord
 # Sublime text
 sudo snap install sublime-text --classic
 
+# Spotify
+sudo snap install spotify
+
 # Set favorite-apps
 gsettings set org.gnome.shell favorite-apps "['google-chrome.desktop', 'org.gnome.Terminal.desktop', 'pycharm-professional_pycharm-professional.desktop', 'code_code.desktop', 'slack_slack.desktop', 'discord_discord.desktop', 'org.gnome.Nautilus.desktop']"
 
