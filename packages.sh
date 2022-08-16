@@ -2,7 +2,7 @@
 
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install vim tmux network-manager git tig openvpn gcc g++ htop silversearcher-ag mosh pwgen curl lm-sensors cmake -y
+sudo apt-get install vim tmux network-manager git tig openvpn gcc g++ htop silversearcher-ag mosh pwgen curl lm-sensors cmake postgresql -y
 
 git config --global user.name "Agnar22"
 git config --global user.email "agnar.bjornstad@gmail.com"
