@@ -6,6 +6,7 @@ sudo apt-get install vim tmux network-manager git tig openvpn gcc g++ htop silve
 
 git config --global user.name "Agnar22"
 git config --global user.email "agnar.bjornstad@gmail.com"
+git config --global core.editor "vim"
 
 # Chrome
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
